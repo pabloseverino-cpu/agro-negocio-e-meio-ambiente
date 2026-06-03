@@ -49,5 +49,4 @@ IBGE
 EMBRAPA
 IBGE
 
-Autor: Seu Nome
-Ano: 2026
+Autor:Pablo Kauan Severino 
